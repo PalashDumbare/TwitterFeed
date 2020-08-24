@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterFeed</string>
+
+    <string name="Feeds">Feeds</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+</resources>
